@@ -15,4 +15,9 @@ def link
   puts link_phrase
 end  
 
+def any_phrase(phrase)
+  puts "#{phrase}"
+end
+
+
 
